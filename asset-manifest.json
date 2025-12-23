@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reactYoga/static/css/main.f855e6bc.css",
-    "main.js": "/reactYoga/static/js/main.6cb39dde.js",
+    "main.css": "/reactYoga/static/css/main.66c7f132.css",
+    "main.js": "/reactYoga/static/js/main.478fd611.js",
     "static/js/453.eb8bb909.chunk.js": "/reactYoga/static/js/453.eb8bb909.chunk.js",
     "index.html": "/reactYoga/index.html",
-    "main.f855e6bc.css.map": "/reactYoga/static/css/main.f855e6bc.css.map",
-    "main.6cb39dde.js.map": "/reactYoga/static/js/main.6cb39dde.js.map",
+    "main.66c7f132.css.map": "/reactYoga/static/css/main.66c7f132.css.map",
+    "main.478fd611.js.map": "/reactYoga/static/js/main.478fd611.js.map",
     "453.eb8bb909.chunk.js.map": "/reactYoga/static/js/453.eb8bb909.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.6cb39dde.js"
+    "static/css/main.66c7f132.css",
+    "static/js/main.478fd611.js"
   ]
 }
