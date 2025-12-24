@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[97367,["/reactYoga/_next/static/chunks/ff1a16fafef87110.js","/reactYoga/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"buildId":"oOm3QR93g93V2Q5KwwGfS","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"container mx-auto p-8 text-center","children":[["$","h1",null,{"className":"text-4xl mb-8","children":"Практика не найдена"}],["$","p",null,{"children":["Файл content/practices/","$undefined",".md не существует."]}]]}],[["$","script","script-0",{"src":"/reactYoga/_next/static/chunks/70d3b140250b27ee.js","async":true}]],["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"S8q2ttkRFzQR_3QI2WJ3v","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"container mx-auto p-8 text-center","children":[["$","h1",null,{"className":"text-4xl mb-8","children":"Практика не найдена"}],["$","p",null,{"children":["Файл content/practices/","$undefined",".md не существует."]}]]}],[["$","script","script-0",{"src":"/reactYoga/_next/static/chunks/70d3b140250b27ee.js","async":true}]],["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
 4:null
